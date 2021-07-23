@@ -10,4 +10,4 @@ pluginManagement {
         id(quarkusPluginId) version quarkusPluginVersion
     }
 }
-rootProject.name="try-quarkus-htmx"
+rootProject.name="try-htmx-with-quarkus"
